@@ -1,6 +1,6 @@
 {
   "name": "hbt-pages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "repository": "https://github.com/herbert-hbt/hbt-pages.git",
   "author": "何柏庭 <hebaiting@chinafocus.com>",
